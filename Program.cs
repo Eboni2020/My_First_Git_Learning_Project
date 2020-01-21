@@ -9,7 +9,7 @@ namespace My_First_Git_Learning_Project
             //Display the "Hello World!" message!
             Console.WriteLine("Hello World!");
 
-            //Display the econd message "This is ISM 4300!"!
+            //Display the second message "This is ISM 4300!"!
             Console.WriteLine("This is ISM 4300!");
         }
     }
